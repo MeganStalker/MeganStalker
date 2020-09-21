@@ -1,7 +1,29 @@
-### Hi there 👋
+### #HelloWorld :earth_africa:
+
+ :wave: I'm Megan <br/>
+
+:speech_balloon: My pronouns are they/them
+
+:recycle: I'm a final year PhD student within the [Centre for Sustainable and Circular Technologies](https://www.csct.ac.uk/)
+based at the [University of Bath](https://www.bath.ac.uk)
+
+:gem: I'm a member of the [Computational Solid State Chemistry Group](https://people.bath.ac.uk/chsscp/group/) based in the  [Department of Chemistry](https://www.bath.ac.uk/departments/department-of-chemistry/)
+
+:mag: [My current research interests](https://researchportal.bath.ac.uk/en/persons/megan-stalker) lie in the molecular simulation of naturally occurring biopolymers
+
+I am interested in:
+
+:seedling: sustainability <br/>
+:computer: coding <br/>
+:atom: molecular simulation <br/>
+:lab_coat: chemistry <br/>
+:bar_chart: statistics <br/>
+ 
+ 
 
 <!--
 **MeganStalker/MeganStalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
