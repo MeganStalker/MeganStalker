@@ -15,11 +15,11 @@ at the [University of Bath](https://www.bath.ac.uk)
 
 I am interested in:
 
-:seedling: sustainability <br/>
-:atom: molecular simulation <br/>
-:computer: coding <br/>
-:lab_coat: chemistry <br/>
-:bar_chart: statistics <br/>
+:seedling: Sustainability <br/>
+:atom: Molecular simulation <br/>
+:computer: Coding <br/>
+:lab_coat: Chemistry <br/>
+:bar_chart: Statistics <br/>
  
  <br/>
  
