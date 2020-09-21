@@ -14,12 +14,12 @@ at the [University of Bath](https://www.bath.ac.uk)
 I am interested in:
 
 :seedling: sustainability <br/>
-:computer: coding <br/>
 :atom: molecular simulation <br/>
+:computer: coding <br/>
 :lab_coat: chemistry <br/>
 :bar_chart: statistics <br/>
  
-:handshake: I am open to collaboration and am open to new oppurtunities: <br/>
+:handshake: I am open to collaboration and new oppurtunities: <br/>
 
 :email: m.stalker@bath.ac.uk <br/>
 :bird: [@MeganStalker](https://twitter.com/MeganStalker) <br/>
