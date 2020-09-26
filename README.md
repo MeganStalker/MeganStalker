@@ -13,7 +13,7 @@ at the [University of Bath](https://www.bath.ac.uk)
 
 <br/>
 
-I am interested in:
+I am passionate about:
 
 :seedling: Sustainability <br/>
 :atom: Molecular simulation <br/>
