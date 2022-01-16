@@ -26,5 +26,4 @@ I am passionate about:
 :handshake: I am open to collaboration and new oppurtunities: <br/>
 
 :email: m.stalker@bath.ac.uk <br/>
-:bird: [@MeganStalker](https://twitter.com/MeganStalker) <br/>
 :globe_with_meridians: [Megan Stalker](https://www.linkedin.com/in/megan-stalker/) <br/>
