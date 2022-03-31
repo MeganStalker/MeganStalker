@@ -6,7 +6,7 @@
 
 :test_tube: I'm a Research Assistant within the [Edler Group](https://people.bath.ac.uk/chske/) based in the [Department of Chemistry](https://www.bath.ac.uk/departments/department-of-chemistry/) at the [University of Bath](https://www.bath.ac.uk)
 
-:droplet: I am a member of the [InDES Research Collaboration](https://people.bath.ac.uk/chske/research/indes/Bath/index.html) 
+:droplet: Currently a member of the [InDES Research Collaboration](https://people.bath.ac.uk/chske/research/indes/Bath/index.html) 
 
 :mag: [My current research interests](https://researchportal.bath.ac.uk/en/persons/megan-stalker) lie in the molecular simulation of sustainable biopolymers and green solvents
 
