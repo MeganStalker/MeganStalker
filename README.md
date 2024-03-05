@@ -2,7 +2,7 @@
 
  :wave: I'm Megan <br/>
 
-:speech_balloon: My pronouns are they/them
+:speech_balloon: My pronouns are she/her
 
 :test_tube: I'm a Research Assistant within the [Edler Group](https://people.bath.ac.uk/chske/) based in the [Department of Chemistry](https://www.bath.ac.uk/departments/department-of-chemistry/) at the [University of Bath](https://www.bath.ac.uk)
 
